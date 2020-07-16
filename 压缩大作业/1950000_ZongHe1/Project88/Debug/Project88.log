@@ -1,0 +1,9 @@
+﻿  todo.cpp
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(518): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(548): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(599): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(543): warning C4101: “t4”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(543): warning C4101: “t2”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(541): warning C4101: “tb1”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_zonghe1\project88\todo.cpp(542): warning C4101: “size2”: 未引用的局部变量
+  Project88.vcxproj -> C:\Users\www\Desktop\李至霖\学习\大二下\高程\大作业\压缩\1852979_ZongHe1\Debug\Project88.exe
